@@ -2,7 +2,7 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/5-must-have-home-gym-essentials-for-2024/
+            http://localhost:8000/4-must-have-home-gym-essentials-for-2025/
         </loc>
     </url>
     <url>
@@ -33,6 +33,41 @@
     <url>
         <loc>
             http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/led-jump-rope-with-bluetooth-tracking/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/grip-strengthener/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/massage-gun/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/weighted-vest-5-50-lbs-adjustable/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/gymnastics-grip-tape/
         </loc>
     </url>
     <url>

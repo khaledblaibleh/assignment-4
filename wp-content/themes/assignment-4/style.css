@@ -1,0 +1,23 @@
+/*
+Theme Name:     assignment 4
+Description:    child theme for fitness products
+Author:         khaledblaibleh
+Template:       twentytwentyfive
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+:root {
+  --antiquewhite: antiquewhite;
+}
+
+footer{
+	background-color: var(--antiquewhite);
+}
+
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
